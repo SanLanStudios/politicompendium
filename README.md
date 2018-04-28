@@ -1,0 +1,2 @@
+# politicompendium
+News aggregator 
